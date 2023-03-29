@@ -1,2 +1,2 @@
 # 2TDSG-ProjetoDoDilan 2023
-Projeto exemplo de uso de GIT na empresa do Dilan
+Projeto exemplo de uso de GIT COM FLOW, CONECTADO AO HUB na empresa do Dilan
